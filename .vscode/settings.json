@@ -1,0 +1,5 @@
+{
+    "phpserver.port": 80,
+    "phpserver.relativePath": "",
+    "phpserver.router": ""
+}
